@@ -1,0 +1,42 @@
+[
+  {
+    "text": "heyy",
+    "sender": "user"
+  },
+  {
+    "text": "hey",
+    "sender": "bot"
+  },
+  {
+    "text": "how’s your day going ?",
+    "sender": "user"
+  },
+  {
+    "text": "it’s going alright just studying a bit",
+    "sender": "bot"
+  },
+  {
+    "text": "how about you?",
+    "sender": "bot"
+  },
+  {
+    "text": "[photo]",
+    "sender": "user"
+  },
+  {
+    "text": "thats a ps5 controller",
+    "sender": "bot"
+  },
+  {
+    "text": "thats cool",
+    "sender": "bot"
+  },
+  {
+    "text": "i’ve always wanted to try one do you play often?",
+    "sender": "bot"
+  },
+  {
+    "text": "yea almost every day",
+    "sender": "user"
+  }
+]
