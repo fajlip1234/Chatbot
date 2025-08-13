@@ -1,6 +1,6 @@
 {
-  "profileId": "k131nk66",
-  "apiHost": "local.adspower.net",
+  "profileId": "",
+  "apiHost": "",
   "apiPort": 50325,
   "preInboxWaitMs": 2500,
   "inboxPostGotoWaitMs": 2000,
