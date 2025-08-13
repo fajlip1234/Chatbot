@@ -1,0 +1,14 @@
+{
+  "profileId": "",
+  "apiHost": "",
+  "apiPort": 50325,
+  "preInboxWaitMs": 2500,
+  "inboxPostGotoWaitMs": 2000,
+  "dm": {
+    "targetName": "Filip Kristan",  
+    "messagesPerThread": 20,
+    "screenshot": true,
+    "screenshotDir": "./dm-shots",
+    "exportDir": "./exports"
+  }
+}
