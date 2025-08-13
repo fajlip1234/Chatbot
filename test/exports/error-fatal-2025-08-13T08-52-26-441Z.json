@@ -1,0 +1,10 @@
+{
+  "label": "fatal",
+  "time": "2025-08-13T08:52:26.442Z",
+  "message": "Inbox tab not found!",
+  "stack": "Error: Inbox tab not found!\n    at focusOnInboxTab (C:\\Users\\kofos\\OneDrive\\Počítač\\wahah\\test\\ig-dm-scrape-directnav.fullthread.js:217:11)\n    at async exportFullThread (C:\\Users\\kofos\\OneDrive\\Počítač\\wahah\\test\\ig-dm-scrape-directnav.fullthread.js:227:23)\n    at async C:\\Users\\kofos\\OneDrive\\Počítač\\wahah\\test\\ig-dm-scrape-directnav.fullthread.js:374:5",
+  "argv": [
+    "C:\\Program Files\\nodejs\\node.exe",
+    "C:\\Users\\kofos\\OneDrive\\Počítač\\wahah\\test\\ig-dm-scrape-directnav.fullthread.js"
+  ]
+}
